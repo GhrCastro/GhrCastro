@@ -1,4 +1,3 @@
-### 📊 Meu Calendário de Contribuições 3D
 ![Contribuições](./profile-3d-contrib/profile-night-rainbow.svg)## Hi there 👋
 
 <!--
