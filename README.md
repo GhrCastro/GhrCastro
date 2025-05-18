@@ -1,5 +1,5 @@
 ### 📊 Meu Calendário de Contribuições 3D
-![Contribuições](./profile-3d-contrib/night-rainbow.svg)## Hi there 👋
+![Contribuições](./profile-3d-contrib/profile-night-rainbow.svg)## Hi there 👋
 
 <!--
 **GhrCastro/GhrCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
